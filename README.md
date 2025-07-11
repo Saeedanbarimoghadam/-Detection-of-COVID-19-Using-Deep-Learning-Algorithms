@@ -1,4 +1,4 @@
-# Detection of COVID-19 Using Deep Learning Algorithms
+# Detection of COVID-19 Using Deep Learning 
 Scenario 1: CNN Model with Customized Parameters:
 In this scenario, a Convolutional Neural Network (CNN) was implemented with five different architectures to find the best-performing model.
 
